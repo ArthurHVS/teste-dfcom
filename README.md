@@ -37,5 +37,5 @@ Arthur Henrique Verdadeiro
 - Suíte de testes padrão vinda do `create-react-app` não modificada
 
 #### Suíte
-- Testa rota `POST /login`, com combinações válidas e inválidas.
+- Testa rota `POST /login`, com combinações válidas e inválidas de username/password.
 
